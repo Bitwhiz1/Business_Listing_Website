@@ -1,9 +1,3 @@
 MOHD AZFAR KHAN 12300942
 <br>
-TANISHKA SONI 12319510
-<br>
-KHUSHI TRIPATHI 12307025
-<Br.
-YASH RAJ 12324751
-<Br>
 BUSINESS LISTING WEBSITE(Frontend of the website is functional and responsive.)
